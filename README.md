@@ -1,2 +1,2 @@
-# letcode
+# leetcode
 problems
